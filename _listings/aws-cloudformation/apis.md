@@ -10,8 +10,8 @@ tags:
 - Deployment
 - Cloud
 - Amazon Web Services
-created: "2018-03-13"
-modified: "2018-03-13"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery/imports/master/_listings/aws-cloudformation/apis.yaml
 specificationVersion: "0.14"
 apis:

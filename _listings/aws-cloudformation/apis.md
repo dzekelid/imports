@@ -10,9 +10,9 @@ tags:
 - Deployment
 - Cloud
 - Amazon Web Services
-created: "2018-03-15"
-modified: "2018-03-15"
-url: https://raw.githubusercontent.com/streamdata-gallery/imports/master/_listings/aws-cloudformation/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/imports/master/_listings/aws-cloudformation/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: AWS CloudFormation API
@@ -23,7 +23,7 @@ apis:
   tags: Imports
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/imports/master/_listings/aws-cloudformation/action-listimports-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/imports/master/_listings/aws-cloudformation/action-listimports-get.md
 x-common:
 - type: x-command-line-interface
   url: http://docs.aws.amazon.com/cli/latest/reference/cloudformation/index.html

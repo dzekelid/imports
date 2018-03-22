@@ -19,9 +19,9 @@ tags:
 - Gateway
 - Deployment
 - Amazon Web Services
-created: "2018-03-15"
-modified: "2018-03-15"
-url: https://raw.githubusercontent.com/streamdata-gallery/imports/master/_listings/aws-api-gateway/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/imports/master/_listings/aws-api-gateway/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: AWS API Gateway API
@@ -33,7 +33,7 @@ apis:
   tags: Imports
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/imports/master/_listings/aws-api-gateway/apikeys-mode-import-amp;format-csv-amp;failonwarnings-false-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/imports/master/_listings/aws-api-gateway/apikeys-mode-import-amp;format-csv-amp;failonwarnings-false-post.md
 x-common:
 - type: x-documentation
   url: https://docs.aws.amazon.com/apigateway/api-reference/

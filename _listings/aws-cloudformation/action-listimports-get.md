@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS CloudFormation API
+  title: AWS CloudFormation API List Imports
   version: 1.0.0
+  description: Lists all stacks that are importing an exported output value.
 schemes:
 - http
 produces:
